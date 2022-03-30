@@ -4,6 +4,7 @@ body {
 }
 h2, h3, h4 {
     text-decoration: underline; 
+    text-decoration-style: dashed;
     color: magenta;
 }
 h3, h4 {
