@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    background-color: lightcyan;
+}
+h2, h3, h4 {
+    text-decoration: underline; 
+    color: magenta;
+}
+h3, h4 {
+    color: salmon;
+}
+.box {
+    width: 100px;
+    height: 80px;
+    background-color: lightgreen;
+    border: 2px solid blueviolet;
+    margin: 0 10px 0 10px;
+}
+.firstbox {
+    background-color: olivedrab;
+    border: 5px solid orangered;
+}
+.secondbox {
+    background-color: burlywood;
+    border: 5px dotted blue;
+}
+.thirdbox {
+    background-color: pink;
+    border: 5px solid purple;
+}
+.button {
+    margin: 10px 0 10px 0;
+}
